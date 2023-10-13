@@ -37,3 +37,8 @@ body
 #post {
     padding: 1em;
 }
+#footer {
+    imagen: 20cm;
+    padding: 0;
+    text-align: left;
+}
