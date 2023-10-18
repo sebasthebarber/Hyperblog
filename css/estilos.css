@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24; 
     color: #333;
     text-align: center;
     font-family: "arial";
@@ -9,13 +10,17 @@ body
 }
 
 #cabecera {
-    background: #33a;
+    background: #33a url(C:\Users\sebii\proyecto1\imagenes) 10px 10px;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5;
+    padding: 0.5em 0 0.5em 2em;
 }
+ #cabecera #logo {
+    width: 25px;
+    vertical-align: middle;
+ }
 
 #cabecera #tagline {
     padding: 0 0 0 1cm;
@@ -35,10 +40,7 @@ body
     font-size: 30px; 
 }
 #post {
+    background-color: #fff;
     padding: 1em;
 }
-#footer {
-    imagen: 20cm;
-    padding: 0;
-    text-align: left;
-}
+
