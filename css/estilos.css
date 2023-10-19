@@ -10,17 +10,19 @@ body
 }
 
 #cabecera {
-    background: #33a url(C:\Users\sebii\proyecto1\imagenes) 10px 10px;
+    background:#096979;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em 0 0.5em 2em;
+    padding: 0.5em;
 }
- #cabecera #logo {
-    width: 25px;
+
+#cabecera img {
+    max-height: 10em;
+    max-width: 10%;
     vertical-align: middle;
- }
+}
 
 #cabecera #tagline {
     padding: 0 0 0 1cm;
