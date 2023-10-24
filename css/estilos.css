@@ -37,3 +37,10 @@ body
 #post {
     padding: 1em;
 }
+  
+#header {
+    background: #707b7d;
+    color: #fafeff;
+    padding: 0.5em;
+    text-align: center;
+}
