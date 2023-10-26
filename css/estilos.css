@@ -1,6 +1,6 @@
 body
 {
-    background: #fff; 
+    background: #1e1f24; 
     color: #333;
     text-align: center;
     font-family: "arial";
@@ -42,10 +42,9 @@ body
     font-size: 30px; 
 }
 #post {
-    background-color:#fff ;
+    background-color: #fff;
     padding: 1em;
 }
-
   
 #header {
     background: #707b7d;
